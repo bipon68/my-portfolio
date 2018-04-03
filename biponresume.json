@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Bipon Biswas",
+    "label": "Front End Engineer",
+    "picture": "profilePhoto.png",
+    "email": "bipon770@gmail.com",
+    "phone": "+8801920835077",
+    "website": "http://iglyphic.com",
+    "summary": "Hi! I'm a creative cat from Bangladesh. I work with fun and enjoy creating eye candy solutions for web and mobile applications. With HTML5, CSS3, Bootstrap, JavaScript, jQuery, React as my tools, I build website front-ends focusing on performance, responsiveness and usability.I usually work with designers or design teams to bring designs to convert their designs into fast, responsive and interactive websites and/or applications.I likes to think using logic and science. Also I like math, like to learn new technology. I keep my code clean and test everything I do on different web browsers and platforms.",
+    "location": {
+      "address": "Panthapoth",
+      "postalCode": "1216",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Dhaka"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "bipon68",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "bipon68",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "AlemHealth",
+      "position": "Front End Engineer",
+      "website": "https://www.alemhealth.com/",
+      "startDate": "July - 2017",
+      "endDate": "",
+      "summary": "Working as a Front End Engineer as part of TeleRed developing html/css/javascript solutions to integrate with the backend systems for the online restaurant applications.",
+      "highlights": [
+        "Developed UI with backend teams using React - https://alem.health/intro",
+        "Developed UI with backend teams using Angular - http://cloud.alemhealth.com/"
+      ]
+    },
+    {
+      "company": "AmberIT",
+      "position": "UI/UX Engineer",
+      "website": "http://www.amberit.com.bd/",
+      "startDate": "June - 2015",
+      "endDate": "June 2017",
+      "summary": "Working as a UI/UX Engineer as part of Chefonline developing html/css/javascript solutions to integrate with the backend systems for the online restaurant applications.",
+      "highlights": [
+        "Developed ChefOnline Restaurant Web Portal UI with backend teams using inconsistent markup - https://www.chefonline.co.uk/",
+        "Started to transition existing jQuery plugins over to Javascript"
+      ]
+    },
+    {
+      "company": "W3Engineers",
+      "position": "Jnr. UI/UX Designer",
+      "website": "",
+      "startDate": "January 2013",
+      "endDate": "November 2014",
+      "summary": "As a Front End Developer. Work on shopify theme, wordpress theme etc",
+      "highlights": [
+        "Developed Booking System for Homes UI - https://www.rentbyowner.com/",
+        "Insurance System - http://www.homeowners.com/"
+      ]
+    },
+    {
+      "company": "WamLan",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "December 2014",
+      "endDate": "February 2015",
+      "summary": "Idea sharing & Front End Developer.",
+      "highlights": [
+        "HTML Template Developed for Envato - http://www.themelan.com/html/flanger/"
+      ]
+    },
+    {
+      "company": "HasTech",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "March 2015",
+      "endDate": "May 2015",
+      "summary": "HTML Template Developed for Envato",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Khulna Polytechnic Instittue",
+      "area": "",
+      "studyType": "Diploma in Computer Science",
+      "startDate": "2004",
+      "endDate": "2008",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Bangladesh University",
+      "area": "",
+      "studyType": "Computer Science Engineering",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "React",
+        "SASS",
+        "Gulp",
+        "Babel",
+        "Bootstrap",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
